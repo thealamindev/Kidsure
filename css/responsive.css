@@ -1,0 +1,1567 @@
+@media(min-width:1200px) {}
+
+@media(min-width:992px) and (max-width:1199.98px) {
+    h3 {
+        font-size: 32px;
+    }
+
+    header .menubar nav ul li a {
+        padding: 25px 20px !important;
+    }
+
+    header .menufixed .menubar ul li a {
+        padding: 0 20px !important;
+    }
+
+    #banner img {
+        width: 100%;
+        margin-top: 65px;
+    }
+
+    #about .about-image .image {
+        top: 100px;
+    }
+
+    #about .about-image .image img {
+        width: 120%;
+    }
+
+    #program .prog .prog-content {
+        padding-left: 25px;
+        padding-right: 25px;
+
+    }
+
+    #service .kid-icon .kid-icon-shape i {
+        width: 140px;
+        height: 155px;
+        line-height: 155px;
+    }
+
+    #service .kid-icon .kid-icon-shape i:hover {
+        height: 161px;
+        line-height: 161px;
+    }
+
+    #newsletter .letter::before {
+        top: 17px;
+        bottom: 17px;
+        left: -9px;
+        right: -9px;
+    }
+
+    #newsletter .letter .letter-back::before {
+        top: 17px;
+        bottom: 17px;
+        left: -9px;
+        right: -9px;
+    }
+
+    #newsletter .letter input {
+        width: 50%;
+    }
+
+    #newsletter .letter {
+        left: 15px;
+    }
+
+    #newsletter p.news {
+        font-size: 38px;
+    }
+
+    #newsletter p.co-4::after {
+        right: 15px;
+
+    }
+
+    #newsletter p.co-2::before {
+        left: 45px;
+    }
+
+    #newsletter p.co-2::after {
+        right: 45px;
+    }
+
+    #newsletter p.co-1::before {
+        left: 10px;
+        width: 60px;
+    }
+
+    #newsletter p.co-3::before {
+        left: 30px;
+
+    }
+
+    #newsletter p.co-3::after {
+        right: 30px;
+
+    }
+
+    #teacher .teacher-individual h4 {
+        font-size: 30px;
+    }
+
+    #testimonial .test {
+        padding: 44px 38px 25px;
+    }
+
+    #testimonial .test .go-right {
+        margin-top: 20px;
+    }
+
+    #testimonial .test p {
+        font-size: 17px;
+    }
+
+    #gallery h3 {
+        width: 45%;
+    }
+
+    #blog .blo .blo-content {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991.98px) {
+    h3 {
+        font-size: 32px;
+    }
+
+    p span.gap {
+        display: none;
+    }
+
+    header .menubar nav ul li a {
+        padding: 25px 10px !important;
+        font-size: 18px;
+    }
+
+    header .head-contact ul li a {
+        margin-left: 35px;
+    }
+
+    header .menufixed .menubar ul li a {
+        padding: 0 10px !important;
+    }
+
+    .colorful-button {
+        font-size: 20px;
+        padding-left: 22px;
+        padding-right: 22px;
+    }
+
+    .colorful-button:hover {
+        padding-left: 22px;
+        padding-right: 22px;
+    }
+
+    #banner .banner-text {
+        padding: 100px 0;
+    }
+
+    #banner .banner-text h1 {
+        font-size: 65px;
+    }
+
+    #banner img {
+        width: 100%;
+        margin-top: 0;
+    }
+
+    #banner .go-to-next-section a {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        bottom: -40px;
+    }
+
+    #about {
+        padding: 120px 0 0;
+    }
+
+    #about::before {
+        top: 60px;
+    }
+
+    #about .about-part {
+        padding-top: 30px;
+    }
+
+    #about .about-image .image {
+        top: 30px;
+    }
+
+    #about .about-image .image img {
+        width: 120%;
+    }
+
+    #about .about-text p span.gap {
+        display: none;
+    }
+
+    #about .about-text h3 {
+        width: 90%;
+    }
+
+    #program .program-content h3 {
+        width: 45%;
+    }
+
+    #blog .blo .blo-content,
+    #program .prog .prog-content {
+        padding: 50px 10px 30px;
+
+    }
+
+    #program .program-bg {
+        height: 551px;
+        margin-bottom: 525px;
+    }
+
+    #blog .blo,
+    #program .prog {
+        padding: 0 5px;
+    }
+
+    #blog .blo .blo-picture .blo-pic-overlay .blo-tag,
+    #program .prog .prog-picture .prog-pic-overlay .prog-tag {
+        padding: 5px 7px;
+        margin-left: 4px;
+    }
+
+    #service .kid-icon .kid-icon-shape i {
+        width: 110px;
+        height: 135px;
+        line-height: 135px;
+        font-size: 70px;
+    }
+
+    #service .kid-icon .kid-icon-shape i::after {
+        top: 9px;
+        bottom: 9px;
+        left: -8px;
+        right: -8px;
+    }
+
+    #service .kid-icon .kid-icon-shape i:hover {
+        height: 141px;
+        line-height: 141px;
+    }
+
+    #service .kid-icon .kid-icon-shape i:hover::after {
+
+        top: 9px;
+        bottom: 9px;
+        left: -10px;
+        right: -10px;
+        border-radius: 10%/50%;
+    }
+
+    #service .kid-icon {
+        margin-bottom: 30px;
+    }
+
+
+    #newsletter p.news {
+        font-size: 28px;
+    }
+
+    #newsletter p.co-4::after {
+        right: 15px;
+        width: 55px;
+
+    }
+
+    #newsletter p.co-2::before {
+        left: 15px;
+        width: 38px;
+    }
+
+    #newsletter p.co-2::after {
+        right: 15px;
+        width: 38px;
+    }
+
+    #newsletter p.co-1::before {
+        left: 10px;
+        width: 32px;
+    }
+
+    #newsletter p.co-3::before {
+        left: 20px;
+        width: 32px;
+
+    }
+
+    #newsletter p.co-3::after {
+        right: 20px;
+        width: 32px;
+
+    }
+
+    #newsletter .letter .z {
+        padding: 0;
+    }
+
+    #newsletter .letter::before {
+        top: 19px;
+        bottom: 19px;
+        left: -12px;
+        right: -12px;
+        border-radius: 2%/ 50%;
+    }
+
+    #newsletter .letter .letter-back::before {
+        top: 19px;
+        bottom: 19px;
+        left: -12px;
+        right: -12px;
+        border-radius: 2%/ 50%;
+    }
+
+    #newsletter .letter form {
+        padding-top: 40px;
+    }
+
+    #newsletter .letter input {
+        width: 50%;
+        margin: 0;
+    }
+
+    #newsletter .letter {
+        left: 15px;
+    }
+
+    #newsletter .letter button.colorful-button {
+        margin-left: 15px;
+    }
+
+    #newsletter .new {
+        padding: 40px 0 125px;
+    }
+
+    #teacher {
+        padding: 100px 0 90px;
+    }
+
+    #teacher .teacher-individual h4 {
+        font-size: 25px;
+    }
+
+    #teacher .teacher-individual {
+        padding: 5px;
+    }
+
+    #teacher .teacher-individual .tech-button i {
+        font-size: 22px;
+
+    }
+
+    #teacher .teacher-individual.teacher-click .tech-button i {
+        font-size: 14px;
+    }
+
+    #teacher .teacher-individual ul.tech-social li {
+        padding: 0 5px;
+    }
+
+    #teacher .teacher-individual .tech-button i {
+        line-height: 45px;
+    }
+
+    #teacher .teacher-individual .tech-button {
+        width: 45px;
+        height: 45px;
+    }
+
+    #teacher .teach-button {
+        padding-top: 15px;
+    }
+
+    #teacher h3 {
+        width: 55%;
+        margin-bottom: 50px;
+    }
+
+    #testimonial {
+        padding-bottom: 15px;
+    }
+
+    #testimonial h3 {
+        width: 60%;
+    }
+
+    #testimonial .test {
+        padding: 50px 60px 30px;
+    }
+
+    #testimonial .test .go-right {
+        margin-top: 20px;
+    }
+
+    #testimonial .test p {
+        font-size: 17px;
+    }
+
+    #blog {
+        margin-bottom: 100px;
+    }
+
+    #blog .blog-content h3 {
+        width: 57%;
+    }
+
+    #blog .blo .blo-content span.blo-title {
+        display: block;
+    }
+
+    #blog .blog-content a.blo-h {
+        padding: 0 15px !important;
+    }
+
+    #gallery h3 {
+        width: 45%;
+    }
+
+    #gallery .gall-slide {
+        padding-bottom: 20px;
+    }
+
+    #foot {
+        padding-bottom: 0;
+    }
+
+    #foot i {
+        height: 60px;
+        line-height: 60px;
+        width: 54px;
+    }
+
+    #foot i {
+        height: 60px;
+        line-height: 60px;
+        width: 54px;
+    }
+
+    #foot i:hover {
+        height: 64px;
+        line-height: 64px;
+        width: 54px;
+    }
+
+    #foot a {
+        font-size: 14px;
+    }
+
+    #foot ul.foot-menu li {
+        padding: 0 10px;
+    }
+
+    #foot .foot-social {
+        padding-bottom: 20px;
+    }
+
+    #foot .foot-social::before {
+        top: 42%;
+        left: -86%;
+    }
+
+    #foot .foot-social::after {
+        top: 42%;
+        left: 86%;
+    }
+
+    #foot address {
+        padding: 12px 5px;
+        font-size: 14px;
+    }
+
+    #foot .fo-co-1,
+    #foot .fo-co-2,
+    #foot .fo-co-3 {
+        padding-bottom: 30px;
+
+    }
+
+    #foot .top-to-button span {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        top: -40px;
+    }
+
+
+    #contact-details .contact-form .c-o address{
+        font-size: 15px;
+    }
+    #contact-details .contact-form .c-o a {
+        font-size: 13px;
+        padding-bottom: 15px;
+    }
+    #contact-details .contact-heading h3{
+        width: 50%;
+    }
+    #blog-details .blog-tag{
+        display: flex;
+    }
+    #blog-details .blog-tag ul.tags{
+        margin-left: 10px;
+    }
+}
+
+@media(min-width:576px) and (max-width:767.98px) {
+    header {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 9999;
+        background: #fff;
+    }
+
+    header .logo {
+        display: none;
+    }
+
+
+    .logo-small {
+        display: block;
+    }
+
+    header .logo-small img {
+        width: 100%;
+        padding: 35px 0;
+    }
+
+    header .head-contact {
+        display: none;
+    }
+
+    header .navbar-toggler {
+        margin-left: auto;
+        margin-top: 15px;
+        background: transparent !important;
+        border: none !important;
+        outline: none !important;
+        padding: 0 !important;
+        font-size: 25px;
+    }
+
+    header .menubar nav ul li a.dropdown-item{
+        line-height: 50px;
+        text-align: center;
+    }
+    header .menubar .navbar-collapse{
+        border-top: 1px solid #efefef;
+    }
+    header .menubar nav ul{
+        margin-bottom: 20px;
+    }
+    header .menubar nav ul li a {
+        padding: 15px 0 !important;
+    }
+
+    header .menubar nav ul li {
+        text-align: center;
+    }
+
+    header .menufixed .menubar ul li a {
+        padding: 20px 15px !important;
+        line-height: inherit;
+    }
+
+    .colorful-button {
+        padding: 10px 15px;
+        border-radius: 50%/18%;
+    }
+
+    .colorful-button:hover {
+        padding: 13px 15px;
+        border-radius: 50%/21%;
+    }
+
+    .colorful-button:hover::before {
+        right: -6px;
+        left: -6px;
+    }
+
+    #banner .banner-text {
+        padding: 200px 0 0;
+    }
+
+    #banner .banner-text p {
+        padding-bottom: 10px;
+    }
+
+    #banner .banner-text h1 {
+        font-size: 50px;
+    }
+
+    #banner .banner-image img {
+        width: 100%;
+    }
+
+    #banner .banner-image {
+        padding: 30px 0 50px;
+    }
+
+    #banner .go-to-next-section a {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        bottom: -40px;
+    }
+
+    #about::before {
+        z-index: -1;
+    }
+
+    #about .about-part {
+        padding-top: 100px;
+    }
+
+    #about .about-image {
+        position: static;
+    }
+
+    #about .about-image .image {
+        position: static;
+    }
+
+    #about .about-image .image img {
+        width: 100%;
+    }
+
+    #about .about-text {
+        margin-bottom: 60px;
+    }
+
+    #program {
+        border-top: 1px solid #f6f6f6;
+        padding: 60px 0;
+    }
+
+    #program .program-content {
+        position: static;
+    }
+
+    #program .program-bg {
+        display: none;
+    }
+
+    #program .program-content h3 {
+        color: #444;
+        width: 80%;
+    }
+
+    #service .kid-icon .kid-icon-shape i {
+        width: 110px;
+        height: 135px;
+        line-height: 135px;
+        font-size: 70px;
+    }
+
+    #service .kid-icon .kid-icon-shape i::after {
+        top: 9px;
+        bottom: 9px;
+        left: -8px;
+        right: -8px;
+    }
+
+    #service .kid-icon .kid-icon-shape i:hover {
+        height: 141px;
+        line-height: 141px;
+    }
+
+    #service .kid-icon .kid-icon-shape i:hover::after {
+
+        top: 9px;
+        bottom: 9px;
+        left: -10px;
+        right: -10px;
+        border-radius: 10%/50%;
+    }
+
+    #service .ser-details {
+        padding-bottom: 60px;
+    }
+
+    #service .kid-icon span {
+        font-size: 15px;
+    }
+
+    #service .colorful-button::before {
+        left: -6px;
+        right: -6px;
+        border-radius: 2%/50%;
+    }
+
+    #service .colorful-button:hover::before {
+        left: -7px;
+        right: -7px;
+        border-radius: 3%/50%;
+    }
+
+    #newsletter .letter h3 {
+        font-size: 31px;
+    }
+
+    #newsletter .letter form {
+        padding-top: 0;
+    }
+
+    #newsletter .letter input {
+        padding: 15px;
+        margin-left: 5px;
+    }
+
+    #newsletter .letter button.colorful-button {
+        padding: 10px 18px;
+    }
+
+    #newsletter .letter button.colorful-button:hover {
+        padding: 13px 18px;
+    }
+
+    #newsletter .letter::before {
+        border-radius: 2%/50%;
+        top: 19px;
+        bottom: 19px;
+        left: -9px;
+        right: -9px;
+    }
+
+    #newsletter .new {
+        padding: 50px 0 150px;
+    }
+
+    #newsletter p.co-1,
+    #newsletter p.co-2,
+    #newsletter p.co-3,
+    #newsletter p.co-4 {}
+
+    #newsletter p.co-1:before,
+    #newsletter p.co-1:after,
+    #newsletter p.co-2:before,
+    #newsletter p.co-2:after,
+    #newsletter p.co-3:before,
+    #newsletter p.co-3:after,
+    #newsletter p.co-4:before,
+    #newsletter p.co-4:after {
+        background: transparent;
+    }
+
+    #newsletter span.news {
+        font-size:45px;
+    }
+
+    #newsletter .letter .letter-back::before {
+        border-radius: 2%/50%;
+        top: 19px;
+        bottom: 19px;
+        left: -9px;
+        right: -9px;
+    }
+
+    #teacher {
+        padding: 100px 0;
+    }
+
+    #teacher .individual,
+    #teacher .individual-2,
+    #teacher .individual-3{
+        padding-bottom: 30px;
+    }
+
+    #teacher h3 {
+        width: 90%;
+        margin-bottom: 60px;
+    }
+
+    #gallery h3 {
+        width: 70%;
+    }
+
+    #teacher .teacher-individual .tech-button {
+        height: 60px;
+        width: 60px;
+    }
+
+    #teacher .teacher-individual .tech-button i {
+        line-height: 60px;
+    }
+
+    #gallery .gall-slide .slick-arrow {
+        height: 60px;
+        width: 60px;
+        bottom: -50px;
+        line-height: 60px;
+    }
+
+
+    #testimonial {
+        padding-top: 130px;
+        padding-bottom: 70px
+    }
+
+    #testimonial h3 {
+        width: 100%;
+
+    }
+
+    #testimonial .slick-arrow {
+        height: 60px;
+        width: 60px;
+        line-height: 60px;
+    }
+
+    #testimonial .slick-arrow.prev {
+        left: -65px;
+    }
+
+    #testimonial .slick-arrow.next {
+        right: -65px;
+    }
+
+    #testimonial .test {
+        padding-top: 50px;
+    }
+
+    #testimonial .test p {
+        font-size: 16px;
+    }
+
+    #blog {
+        margin-bottom: 100px;
+    }
+    #blog .blog-content h3 {
+        color: #444;
+        width: 75%;
+    }
+
+    #foot .top-to-button span {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        top: -40px;
+    }
+
+    #foot .fo-co-1,
+    #foot .fo-co-2 {
+        padding-bottom: 30px;
+    }
+
+    #foot .fo-co-1,
+    #foot .fo-co-2,
+    #foot .fo-co-3 {
+        text-align: center;
+    }
+
+    #skills .skill-progress {
+        padding-left: 15px;
+    }
+
+    .bread-overlay {
+        margin-top: 90px;
+    }
+
+    #foot .foot-social::after {
+    }
+
+    body.programmes #program {
+        padding: 0;
+    }
+
+    #contact-details {
+        margin-bottom: 765px;
+    }
+
+    #contact-details .contact-heading h3 {
+        width: 100%;
+        padding-bottom: 35px;
+    }
+
+    #contact-details .contact-bg {
+        height: 600px;
+        width: 100%;
+    }
+
+    #contact-details .contact-form {
+        margin-top: 70px;
+    }
+
+    #contact-details .contact-part .contact-image img {
+        padding-top: 30px;
+    }
+
+    #contact-details .contact-form .name {
+        margin-bottom: 10px;
+    }
+
+    #contact-details .contact-form address {
+        padding-bottom: 10px;
+    }
+
+    #contact-details .contact-form .c-o a {
+        display: block;
+    }
+    #error .error-part{
+        margin-bottom: 500px;
+    }
+    #error .error-part::before{
+        top: 100%;
+        right:0;
+        width: 100%;
+        
+    }
+    #error .error-part h3{
+        width: 95%;
+    }
+    #error .error-part .notfound{
+        margin: 25px 0 60px;
+    }
+    #newsletter .news{
+        font-size: 33px;
+    }
+}
+
+@media(max-width:575.98px) {
+    h3 {
+        font-size: 28px;
+    }
+
+    header {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        z-index: 9999;
+        background: #fff;
+    }
+
+    header .logo {
+        display: none;
+    }
+
+    header .navbar-toggler {
+        margin-right: 20px;
+    }
+
+    .logo-small {
+        display: block;
+    }
+
+    header .logo-small img {
+        width: 60%;
+        padding: 35px 0;
+    }
+
+    header .head-contact {
+        display: none;
+    }
+
+    header .navbar-toggler {
+        margin-left: auto;
+        margin-top: 15px;
+        background: transparent !important;
+        border: none !important;
+        outline: none !important;
+        padding: 0 !important;
+        font-size: 25px;
+    }
+    header .menubar nav ul li a.dropdown-item{
+        line-height: 50px;
+        text-align: center;
+    }
+    header .menubar .navbar-collapse{
+        border-top: 1px solid #efefef;
+    }
+    header .menubar nav ul{
+        margin-bottom: 20px;
+    }
+    header .menubar nav ul li a {
+        padding: 15px 0 !important;
+    }
+
+    header .menubar nav ul li {
+        text-align: center;
+    }
+
+    header .menufixed .menubar ul li a {
+        padding: 20px 15px !important;
+        line-height: inherit;
+    }
+
+    .colorful-button {
+        padding: 10px 15px;
+        border-radius: 50%/18%;
+    }
+
+    .colorful-button:hover {
+        padding: 13px 15px;
+        border-radius: 50%/21%;
+    }
+
+    .colorful-button:hover::before {
+        right: -6px;
+        left: -6px;
+    }
+
+    #banner .banner-text {
+        padding: 140px 15px 15px;
+    }
+
+    #banner .banner-text p {
+        padding-bottom: 10px;
+        padding-right: 15px;
+    }
+
+    #banner .banner-text h1 {
+        font-size: 50px;
+    }
+
+    #banner .banner-image img {
+        width: 75%;
+    }
+
+    #banner .banner-image {
+        padding: 0 0 50px;
+        text-align: center;
+    }
+
+    #banner .go-to-next-section a {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        bottom: -40px;
+    }
+
+    #about::before {
+        z-index: -1;
+    }
+
+    #about .about-part {
+        padding-top: 100px;
+    }
+
+    #about .about-text h3 {
+        width: 88%;
+    }
+
+    #about .about-image {
+        position: static;
+    }
+
+    #about .about-image .image {
+        position: static;
+    }
+
+    #about .about-image .image img {
+        width: 88%;
+        margin-left: 5%;
+    }
+
+    #about .about-text {
+        margin-bottom: 60px;
+        padding: 30px 30px 0;
+    }
+
+    #program {
+        border-top: 1px solid #f6f6f6;
+        padding: 60px 0;
+    }
+
+    #program .program-content {
+        position: static;
+    }
+
+    #program .program-bg {
+        display: none;
+    }
+
+    #program .program-content h3 {
+        color: #444;
+        width: 62%;
+    }
+
+    #service h3 {
+        width: 62%;
+    }
+
+    #service .kid-icon {
+        margin-bottom: 25px;
+    }
+
+    #service .kid-icon .kid-icon-shape i {
+        width: 110px;
+        height: 135px;
+        line-height: 135px;
+        font-size: 70px;
+    }
+
+    #service .kid-icon .kid-icon-shape i::after {
+        top: 9px;
+        bottom: 9px;
+        left: -8px;
+        right: -8px;
+    }
+
+    #service .kid-icon .kid-icon-shape i:hover {
+        height: 141px;
+        line-height: 141px;
+    }
+
+    #service .kid-icon .kid-icon-shape i:hover::after {
+
+        top: 9px;
+        bottom: 9px;
+        left: -10px;
+        right: -10px;
+        border-radius: 10%/50%;
+    }
+
+    #service .ser-details {
+        padding-bottom: 60px;
+    }
+
+    #service .kid-icon span {
+        font-size: 15px;
+    }
+
+    #service .colorful-button{
+        font-size: 20px;
+    }
+    #service .colorful-button::before {
+        left: -6px;
+        right: -6px;
+        border-radius: 3%/50%;
+        top: 8px;
+        bottom: 8px;
+    }
+
+    #service .colorful-button:hover::before {
+        left: -6px;
+        right: -6px;
+        border-radius: 3%/50%;
+        top: 11px;
+        bottom: 11px;
+    }
+
+    #newsletter{
+        text-align: center;
+    }
+    #newsletter .news {
+        font-size: 25px;
+    }
+
+    #newsletter .letter {
+        width: 85%;
+        left: 12%;
+        bottom: -145px;
+    }
+
+    #newsletter .letter h3 {
+        font-size: 25px;
+    }
+
+    #newsletter .letter form {
+        padding-top: 0;
+    }
+
+    #newsletter .letter input {
+        padding: 15px;
+        margin-left: 5px;
+        width: 95%;
+    }
+
+    #newsletter .letter button.colorful-button {
+        padding: 10px 18px;
+        margin-left: 10px;
+    }
+
+    #newsletter .letter button.colorful-button:hover {
+        padding: 13px 18px;
+    }
+
+    #newsletter .letter::before {
+        border-radius: 2%/50%;
+        top: 23px;
+        bottom: 23px;
+        left: -9px;
+        right: -9px;
+    }
+
+    #newsletter .new {
+        padding: 50px 0 150px;
+    }
+
+
+    #newsletter p.co-1:before,
+    #newsletter p.co-1:after,
+    #newsletter p.co-2:before,
+    #newsletter p.co-2:after,
+    #newsletter p.co-3:before,
+    #newsletter p.co-3:after,
+    #newsletter p.co-4:before,
+    #newsletter p.co-4:after {
+        background: transparent;
+    }
+
+    #newsletter span.news {
+        font-size: 35px;
+    }
+
+    #newsletter .letter .letter-back::before {
+        border-radius: 2%/50%;
+        top: 23px;
+        bottom: 23px;
+        left: -9px;
+        right: -9px;
+    }
+
+    #teacher {
+        padding: 100px 0;
+    }
+
+    #teacher .individual,
+    #teacher .individual-2,
+    #teacher .individual-3 {
+        padding-bottom: 30px;
+    }
+
+    #teacher h3 {
+        width: 62%;
+        margin-bottom: 60px;
+    }
+
+    #gallery h3 {
+        width: 78%;
+    }
+
+    #teacher .teacher-individual .tech-button {
+        height: 60px;
+        width: 60px;
+        right: 27%;
+    }
+
+    #teacher .teacher-individual .tech-button i {
+        line-height: 60px;
+    }
+
+    #gallery .gall-slide .slick-arrow {
+        height: 60px;
+        width: 60px;
+        bottom: -50px;
+        line-height: 60px;
+    }
+
+
+    #testimonial {
+        padding-top: 130px;
+    }
+
+    #testimonial h3 {
+        width: 74%;
+
+    }
+
+    #testimonial .slick-arrow {
+        height: 60px;
+        width: 60px;
+        line-height: 60px;
+    }
+
+    #testimonial .test .go-right {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    #testimonial .slick-arrow.prev {
+        left: -65px;
+    }
+
+    #testimonial .slick-arrow.next {
+        right: -65px;
+    }
+
+    #testimonial .test {
+        padding: 40px 35px 25px;
+    }
+
+    #testimonial .test p {
+        font-size: 16px;
+    }
+
+    #blog {
+        margin-bottom: 100px;
+    }
+
+    #blog .blo {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    #blog .smol-odi {
+        margin-top: 20px;
+    }
+
+    #blog .blog-content h3 {
+        color: #444;
+        margin-bottom: 20px;
+        width: 75%;
+    }
+
+    #foot .top-to-button span {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        top: -40px;
+    }
+
+    #foot a {
+        margin-left: 5px;
+    }
+
+    #foot .fo-co-1 {
+        padding-bottom: 5px;
+    }
+
+    #foot .fo-co-2 {
+        padding-bottom: 30px;
+    }
+
+    #foot .fo-co-1,
+    #foot .fo-co-2,
+    #foot .fo-co-3 {
+        text-align: center;
+    }
+
+    #foot .fo-co-3 {
+        padding-bottom: 50px;
+    }
+
+    #foot ul.foot-menu li {
+        display: inherit;
+    }
+
+    #foot .foot-social::before {
+        background: transparent;
+    }
+
+    #foot .foot-social::after {
+        background: transparent;
+    }
+
+    .smoll-aditisocute {
+        display: none !important;
+    }
+
+    #blog .blo-picture {
+        background-size: cover !important;
+    }
+
+    #foot .foot-social::after {
+    }
+
+    #testimonial .test.purple {
+        width: 80%;
+        margin: auto;
+    }
+
+    #program .prog-picture {
+        background-size: cover !important;
+    }
+
+    #skills .skill-progress {
+        padding-left: 15px;
+    }
+
+    .bread-overlay {
+        margin-top: 90px;
+    }
+
+    .bread-overlay h2.breadcrumb-title {
+        font-size: 50px;
+    }
+
+    body.programmes #program {
+        padding: 0;
+    }
+
+    #program .program-content.inner-prog-content {
+        margin: 100px 0 35px;
+    }
+
+    #skills {
+        padding-bottom: 30px;
+    }
+
+    #contact-details {
+        margin-bottom: 765px;
+    }
+
+    #contact-details .contact-heading h3 {
+        width: 100%;
+        padding-bottom: 35px;
+        font-size: 18px;
+    }
+
+    #contact-details .contact-bg {
+        height: 600px;
+        width: 100%;
+    }
+
+    #contact-details .contact-form {
+        margin-top: 70px;
+    }
+
+    #contact-details .contact-part .contact-image img {
+        padding-top: 30px;
+    }
+
+    #contact-details .contact-form .name {
+        margin-bottom: 10px;
+    }
+
+    #contact-details .contact-form address {
+        padding-bottom: 10px;
+    }
+
+    #contact-details .contact-form .c-o a {
+        display: block;
+    }
+    
+    #error .error-part{
+        margin-bottom: 470px;
+    }
+    #error .error-part::before{
+        top: 100%;
+        right:0;
+        width: 100%;
+        
+    }
+    #error .error-part h3{
+        width: 95%;
+        margin-bottom: 15px;
+    }
+    #error .error-part .notfound{
+        margin: 25px 0 60px;
+    }
+    #blog-details .blog-details-heading h3{
+        width: 100%;
+    }
+    #blog-details .blog-details-heading{
+        margin-bottom: 25px;
+    }
+    #blog-details h4{
+        font-size: 22px;
+    }
+    #blog-details ul.date-like{
+        padding-top: 10px;
+    }
+    #blog-details ul.date-like li{
+        padding: 0;
+    }
+    #blog-details p.blabla{
+        padding-top: 30px;
+    }
+    #comments .reply{
+        padding: 0;
+    }
+    #comments .reply h6{
+        display: block;
+    }
+    #comments .reply span{
+        float: inherit;
+    }
+    #comments form input.name{
+        margin-bottom: 10px;
+    }
+    #testimonial{
+        padding-bottom: 70px;
+    }
+}
+
+@media(max-width:357.98px) {
+
+    header .logo-small img {
+        width: 100%;
+    }
+    .foot-logo img{
+        width: 60%;
+    }
+
+
+
+    #newsletter .letter .letter-back::before {
+        border-radius: 5%/50%;
+        top: 20px;
+        bottom: 20px;
+    }
+
+    #newsletter .letter::before {
+        border-radius: 5%/50%;
+        top: 20px;
+        bottom: 20px;
+    }
+
+    #testimonial h3 {
+        width: 90%;
+    }
+
+    #testimonial .test.purple {
+        width: 100%;
+    }
+
+    #teacher .teacher-individual .tech-button {
+        height: 60px;
+        width: 60px;
+        right: 10%;
+    }
+
+    #blog .blo-picture {
+        background-size: inherit !important;
+    }
+
+    #teacher h3 {
+        width: 80%;
+    }
+
+    #gallery h3 {
+        width: 80%;
+    }
+
+    #service h3 {
+        width: 80%;
+    }
+
+    #program .program-content h3 {
+        width: 100%;
+    }
+
+    #program .prog-picture {
+        background-size: inherit !important;
+    }
+
+    #testimonial h3 {
+        padding-bottom: 25px;
+    }
+    .bread-overlay h2.breadcrumb-title{
+        font-size: 45px;
+    }
+
+    #contact-details .contact-bg {
+        height: 360px;
+    }
+    #error .error-part::before{
+        height: 40%;
+    }
+    #error .error-part{
+        margin-bottom: 267px;
+    }
+    #comments img{
+        width: 100%;
+    }
+    
+}
